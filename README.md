@@ -1,2 +1,2 @@
 # programming.repo-
-learning and writing program's 
+learning, writing program's and coding
